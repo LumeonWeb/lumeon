@@ -21,7 +21,7 @@ import portfolioRealEstate from "@/assets/portfolio-realestate.jpg";
 const translations = {
   EN: {
     nav: {
-      about: "About",
+      about: "test",
       portfolio: "Portfolio",
       pricing: "Pricing",
       faq: "FAQ",
